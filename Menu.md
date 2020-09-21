@@ -4,13 +4,20 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Fried tonglo (Thai donut twist)        | 20.0  |
+| Joke with vegetable                    | 30.0  |
+| Mama noodles with MSG                  | 25.0  |
+| Thai-style fried eggs and rice         | 50.0  |
+| Waffles with butter                    | 50.0  |
+
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Rice with stir-fried vegetables        | 25.0  |
 
-etc.
+
 
 ---
 
